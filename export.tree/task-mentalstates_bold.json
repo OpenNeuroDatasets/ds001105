@@ -1,9 +1,0 @@
-{
-    "TaskName": "mentalstates",
-    "RepetitionTime": 1.5,
-    "EchoTime": 0.0032,
-    "PhaseEncodingDirection": "i-",
-    "EffectiveEchoSpacing": 0.00001,
-    "MultibandAccellerationFactor": 3,
-    "FlipAngle": 70
-}
